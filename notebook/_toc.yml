@@ -1,2 +1,4 @@
 format: jb-book
-root: UHI-create-movie
+root: intro 
+chapters:
+- file: UHI-create-movie
