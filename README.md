@@ -8,5 +8,5 @@ A User-Friendly, Cloud-Based Tool for Rapid Analysis of Urban Heat Island Effect
     </a>
 </p>
 
-Check the rendered notebook [here](https://j34ni.github.io/UHI-Stream/UHI-create-movie.html)
+Check the rendered notebook [here](https://j34ni.github.io/UHI-Stream)
 
